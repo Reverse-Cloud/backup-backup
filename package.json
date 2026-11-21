@@ -34,6 +34,7 @@
     "jiti": "^2.7.0",
     "jsdom": "^30.0.1",
     "npm-run-all2": "^9.0.3",
+    "prettier": "3.10.1",
     "typescript": "~6.0.0",
     "vite": "npm:@voidzero-dev/vite-plus-core@1.6.0",
     "vite-plugin-pwa": "^2.0.0",
