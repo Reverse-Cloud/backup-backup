@@ -45,7 +45,8 @@
     "workbox-window": "^7.4.1"
   },
   "engines": {
-    "node": "^22.18.0 || >=24.12.0"
+    "node": "^22.18.0 || >=24.12.0",
+    "npm": "12.2.2"
   },
   "devEngines": {
     "packageManager": {
